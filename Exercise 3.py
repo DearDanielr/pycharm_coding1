@@ -1,5 +1,5 @@
 #initailize variables
-f = -7
+f = -69 * 420
 c = (5/9) * (f - 32)
 
 #print temperatures
